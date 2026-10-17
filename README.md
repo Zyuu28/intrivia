@@ -10,3 +10,7 @@
 
 ## Kesan Pesan Cluster [18] Sejauh Ini 
 [Masuk di Cluster [18] itu lucky banget! Awalnya memang masih pada canggung, tapi ternyata teman-temannya asik, saling dukung, dan gampang banget diajak diskusi buat ngerjain tugas-tugas bareng.]
+
+## Harapan Kuliah 
+[IPK >3.5, bisa punya banyak koneksi, bisa magang dibanyak tempat] 
+
