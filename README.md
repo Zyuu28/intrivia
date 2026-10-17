@@ -3,7 +3,7 @@
 ## Identitas Diri 
 | Nama Lengkap | NIM | Program Studi | Cluster | 
 |--------------|-----|---------------|---------| 
-| [JosephCristian] | [265150201111037] | [TeknikInformatika] | [18] | 
+| [JosephCristian] | [265150201111037] | [Teknik Informatika] | [18] | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
 [Mengikuti INTRIVIA 2026 sejauh ini jadi pengalaman yang luar biasa buatku sebagai mahasiswa baru Teknik Informatika. Rangkaian acaranya sangat seru, terstruktur, dan benar-benar membuka wawasan tentang dunia perkuliahan maupun IT. Panitianya juga sangat suportif dalam membimbing kita dari awal] 
